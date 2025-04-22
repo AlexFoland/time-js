@@ -1,2 +1,2 @@
-# time-js
-JS
+# Time
+Clock with JavaScript
